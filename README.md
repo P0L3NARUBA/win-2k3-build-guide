@@ -2,7 +2,7 @@
 
 <h1 align="left"> 📜 Windows Server 2003 Build Guide </h1>
 
-The first Github Guide about Windows Server 2003 Source Code with the Tutorial<br>
+The first and last Github Guide about Windows Server 2003.<br>
 P.S: This guide took me half an hour to write so make sure you hit that star button :)
 
 # Contents
