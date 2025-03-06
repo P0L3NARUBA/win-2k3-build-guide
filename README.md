@@ -29,11 +29,11 @@ P.S: This guide took me half an hour to write so make sure you hit that star but
 4. Edit **x.bat** and change it with these:
 ```
 rem goto end
-extract /y /a /e /l D:\nt5source\srv03rtm 3790src1.cab
-extract /y /a /e /l D:\nt5source\srv03rtm 3790src2.cab
-extract /y /a /e /l D:\nt5source\srv03rtm 3790src3.cab
-extract /y /a /e /l D:\nt5source\srv03rtm 3790src4.cab
-extract /y /a /e /l D:\nt5source\srv03rtm 3790src5.cab
+extract /y /a /e /l D:\srv03rtm 3790src1.cab
+extract /y /a /e /l D:\srv03rtm 3790src2.cab
+extract /y /a /e /l D:\srv03rtm 3790src3.cab
+extract /y /a /e /l D:\srv03rtm 3790src4.cab
+extract /y /a /e /l D:\srv03rtm 3790src5.cab
 :end
 ```
 5. Save the file
