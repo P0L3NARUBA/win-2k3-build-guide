@@ -39,7 +39,7 @@ extract /y /a /e /l D:\srv03rtm 3790src5.cab
 5. Save the file
 6. Open the bat file as Administrator and wait till everything done
 7. Right Click to the source folder and untick the "Read-only" setting and press "Apply"
-8. Extract the contents of **win2003_prepatched_v10a.zip** to **D:\srv03rtm\**
+8. Extract the contents of **win2003_prepatched_v10a.zip** to **D:\srv03rtm** Location
 9. Create a new folder inside the source folder and name it as **certutil** and put everything inside of **win-2k3-certutil** to that new folder
 10. Open the **generate.sh** with **Git Bash** and wait until your certificates are generated
 11. Go inside **srv03rtm.certs** folder and install the following certificates one by one: **driver.pfx, testpca.cer, testroot.cer and vbl03ca.cer**
