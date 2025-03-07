@@ -81,14 +81,17 @@ extract /y /a /e /l D:\srv03rtm 3790src5.cab
  * Q: Is there any patches that we can make this OS more useable and more stable?<br>
   A: Of course there are some patches, for example [OpenXP](https://download.theopenxp.org/)
 
-* Q: The rentry.co guide has a lot of files etc. why didnt you included them in this guide?<br>
-  A: Because that files are unnecessary for the build step, i just wrote the important steps to watch/reproduce.
+   * Q: The rentry.co guide has a lot of files etc. why didnt you included them in this guide?<br>
+     A: Because that files are unnecessary for the build step, i just wrote the important steps to watch/reproduce.
 
 * Q: I didnt understood what to do, is there any videos about it?<br>
   A: Theres a video that made by NTDEV you can check it out: https://www.youtube.com/watch?v=AWZe00v2Rs0
 
-* Q: I need help, where can i contact?<br>
-  A: You can come to our discord server for help, you can write down your issue to the #help channel.
+   * Q: I need help, where can i contact?<br>
+     A: You can come to our discord server for help, you can write down your issue to the #help channel.
+
+* Q: How much time it takes to build?<br>
+  A: It really depends, sometimes it takes too faster but sometimes its just takes a lot of time.
 
 # Credits
 
