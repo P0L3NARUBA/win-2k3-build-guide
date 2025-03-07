@@ -52,7 +52,7 @@ extract /y /a /e /l D:\srv03rtm 3790src5.cab
       2. Right Click and Press "Install Certificate"
       3. Select **Local Machine**
       3. Spam Next button and do the same for all three
-   - Also do not remove this folder as the certificates will be unavailable
+   - Also do not remove this folder as the certificates will be unavailable.
 
 # Building
 8. When the extracting finished, open a command prompt as administrator inside **srv03rtm** and type **tools\razzle64.cmd free offline** or **tools\razzle.cmd free offline** if you're using 32-bit system
@@ -74,10 +74,25 @@ extract /y /a /e /l D:\srv03rtm 3790src5.cab
 6. Copy **ASMS.CAB** and **HIVESXS.INF** from **G:\I386** to **D:\binaries.x86fre\srv\i386**
 7. Type **tools\oscdimg.cmd srv** and be patient it will take some time
 8. Done! if you did everything right then you should see your compiled iso in the D:\ drive.
+   - The name of the iso should be like this: 3790.x86fre.srckit.**yymmdd**-**hhmm**_srv.iso
+
+ # QNA
+
+ * Q: Is there any patches that we can make this OS more useable and more stable?<br>
+  A: Of course there are some patches, for example [OpenXP](https://download.theopenxp.org/)
+
+* Q: The rentry.co guide has a lot of files etc. why didnt you included them in this guide?<br>
+  A: Because that files are unnecessary for the build step, i just wrote the important steps to watch/reproduce.
+
+* Q: I didnt understood what to do, is there any videos about it?<br>
+  A: Theres a video that made by NTDEV you can check it out: https://www.youtube.com/watch?v=AWZe00v2Rs0
+
+* Q: I need help, where can i contact?<br>
+  A: You can come to our discord server for help, you can write down your issue to the #help channel.
 
 # Credits
 
 - Re-uppers & Backupers
-  - Thanks to all of you guys for making this shit a lot easier!
+  - Thanks to all of you guys for making this sh*t a lot easier!
 
 <!-- Made with ❤️ by yungDoom -->
