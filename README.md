@@ -22,7 +22,7 @@ P.S: This guide took me half an hour to write so make sure you hit that star but
 - [Windows Server 2003 ISO for Missing Files](https://archive.org/details/en_windows_server_2003_standard)
 
 # Preparing the Workspace
-1. First of all, disable your antivirus since it will slow down or corrupt everthing while compiling or extracting
+1. First of all, disable your antivirus since it will slow down or corrupt everthing while compiling and extracting
 2. Create or Use Partition with D: Letter
    - net use D: \\localhost\c$\nt5source /persistent:yes
 3. Extract **nt5src.7z\Win2K3** to D:\ drive
