@@ -15,7 +15,7 @@ P.S: This guide took me half an hour to write so make sure you hit that star but
 ## Prerequisites
 - Windows 10/11 are recommended for this guide
 - nt5src.7z : ``magnet:?xt=urn:btih:1a4e5b67060ff2bc8fe2de36a6c265c77f392a0c&dn=NOTREPACKED``
-- [QBittorent](https://www.qbittorrent.org/download)
+- [QBittorent](https://www.qbittorrent.org/download) or any other Torrent software
 - [Git](https://git-scm.com/downloads)
 - [win2003_prepatched_v10a.zip](https://mirrorace.org/m/3Lxas)
 - [Certutil for creating certificates](https://github.com/P0L3NARUBA/win-2k3-certutil)
@@ -82,13 +82,13 @@ extract /y /a /e /l D:\srv03rtm 3790src5.cab
   A: Of course there are some patches, for example [OpenXP](https://download.theopenxp.org/)
 
    * Q: The rentry.co guide has a lot of files etc. why didnt you included them in this guide?<br>
-     A: Because that files are unnecessary for the build step, i just wrote the important steps to watch/reproduce.
+     A: Because that files are unnecessary for the build step, i just wrote the important steps to watch/reproduce
 
 * Q: I didnt understood what to do, is there any videos about it?<br>
   A: Theres a video that made by NTDEV you can check it out: https://www.youtube.com/watch?v=AWZe00v2Rs0
 
    * Q: I need help, where can i contact?<br>
-     A: You can come to our discord server for help, you can write down your issue to the #help channel.
+     A: You can come to our discord server for help, you can write down your issue to the #help channel
 
 * Q: How much time it takes to build?<br>
   A: It really depends, sometimes it takes too faster but sometimes its just takes a lot of time.
