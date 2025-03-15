@@ -93,6 +93,11 @@ extract /y /a /e /l D:\srv03rtm 3790src5.cab
 * Q: How much time it takes to build?<br>
   A: It really depends, sometimes it takes too faster but sometimes its just takes a lot of time.
 
+# Known Errors
+
+* sxsofflineinstall.exe - Entry Point Not Found
+  * This error doesn't affect the building process, but if i remember correctly this is only happens in Windows 11.
+
 # Credits
 
 - Re-uppers & Backupers
