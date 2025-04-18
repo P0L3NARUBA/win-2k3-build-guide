@@ -17,7 +17,7 @@ P.S: This guide took me half an hour to write so make sure you hit that star but
 - nt5src.7z : ``magnet:?xt=urn:btih:1a4e5b67060ff2bc8fe2de36a6c265c77f392a0c&dn=NOTREPACKED``
 - [QBittorent](https://www.qbittorrent.org/download) or any other Torrent software
 - [Git](https://git-scm.com/downloads)
-- [win2003_prepatched_v10a.zip](https://mirrorace.org/m/3Lxas)
+- [win2003_prepatched_v10a.zip](/win2003_prepatched_v10a.zip)
 - [Certutil for creating certificates](https://github.com/P0L3NARUBA/win-2k3-certutil)
 - [Windows Server 2003 ISO for Missing Files](https://archive.org/details/en_windows_server_2003_standard)
 
