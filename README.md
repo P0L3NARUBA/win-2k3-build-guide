@@ -57,7 +57,7 @@ extract /y /a /e /l D:\srv03rtm 3790src5.cab
 # Building
 1. When the extracting finished, open a command prompt as administrator inside **srv03rtm** and type **tools\razzle64.cmd free offline** or **tools\razzle.cmd free offline** if you're using 32-bit system
 2. Wait until the razzling done :D
-3. Close the notepad if you prompted with it.
+3. Close the notepad when it appears
 4. Type **tools\prebuild.cmd** to the cmd and wait until its finished
 5. Now its time to build this GOLD! Type **build /cZP** to start the building process (which will take a lot of time)
    - Use **build /ZP** if you dont want to build everything over and over again, that will take your time for nothing
