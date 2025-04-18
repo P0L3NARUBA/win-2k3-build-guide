@@ -41,11 +41,12 @@ extract /y /a /e /l D:\srv03rtm 3790src5.cab
 6. Open the bat file and wait till everything done
 7. Right Click to the source folder and untick the "Read-only" setting and press "Apply"
 8. Extract the contents of **win2003_prepatched_v10a.zip** to **D:\srv03rtm** Location
-9. Also extract the **processorXP_win2003_update.7z** too
-10. Create a new folder inside the source folder and name it as **certutil** and put everything inside of **win-2k3-certutil** to that new folder
-11. Open the **generate.sh** with **Git Bash** and wait until your certificates are generated
-12. Put everything inside srv03rtm.certs into srv03rtm
-13. Go inside **srv03rtm\tools** folder and install the following certificates one by one: **driver.pfx, testpca.cer, testroot.cer and vbl03ca.cer**
+9. Also put everything inside **_x64** folder to srv03rtm
+10. Also extract the **processorXP_win2003_update.7z** too
+11. Create a new folder inside the source folder and name it as **certutil** and put everything inside of **win-2k3-certutil** to that new folder
+12. Open the **generate.sh** with **Git Bash** and wait until your certificates are generated
+13. Put everything inside srv03rtm.certs into srv03rtm
+14. Go inside **srv03rtm\tools** folder and install the following certificates one by one: **driver.pfx, testpca.cer, testroot.cer and vbl03ca.cer**
    - For driver.pfx, follow these steps:
       1. Right Click and Press "Install PFX"
       2. Select **Local Machine**
