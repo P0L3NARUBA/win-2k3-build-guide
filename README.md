@@ -37,7 +37,7 @@ extract /y /a /e /l D:\srv03rtm 3790src5.cab
 :end
 ```
 5. Save the file
-6. Open the bat file as Administrator and wait till everything done
+6. Open the bat file and wait till everything done
 7. Right Click to the source folder and untick the "Read-only" setting and press "Apply"
 8. Extract the contents of **win2003_prepatched_v10a.zip** to **D:\srv03rtm** Location
 9. Create a new folder inside the source folder and name it as **certutil** and put everything inside of **win-2k3-certutil** to that new folder
