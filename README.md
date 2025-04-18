@@ -42,7 +42,8 @@ extract /y /a /e /l D:\srv03rtm 3790src5.cab
 8. Extract the contents of **win2003_prepatched_v10a.zip** to **D:\srv03rtm** Location
 9. Create a new folder inside the source folder and name it as **certutil** and put everything inside of **win-2k3-certutil** to that new folder
 10. Open the **generate.sh** with **Git Bash** and wait until your certificates are generated
-11. Go inside **srv03rtm.certs\tools** folder and install the following certificates one by one: **driver.pfx, testpca.cer, testroot.cer and vbl03ca.cer**
+11. Put everything inside srv03rtm.certs into srv03rtm
+12. Go inside **srv03rtm.certs\tools** folder and install the following certificates one by one: **driver.pfx, testpca.cer, testroot.cer and vbl03ca.cer**
    - For driver.pfx, follow these steps:
       1. Right Click and Press "Install PFX"
       2. Select **Local Machine**
