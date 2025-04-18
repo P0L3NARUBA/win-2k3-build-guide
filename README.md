@@ -81,6 +81,7 @@ extract /y /a /e /l D:\srv03rtm 3790src5.cab
 8. Done! if you did everything right then you should see your compiled iso in the D:\ drive.
    - The name of the iso should be like this: 3790.x86fre.srckit.**yymmdd**-**hhmm**_srv.iso
 
+Heres a key for the installation: JB88F-WT2Q3-DPXTT-Y8GHG-7YYQY
  # QNA
 
  * Q: Is there any patches that we can make this OS more useable and more stable?<br>
