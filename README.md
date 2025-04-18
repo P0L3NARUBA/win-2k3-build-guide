@@ -42,7 +42,7 @@ extract /y /a /e /l D:\srv03rtm 3790src5.cab
 7. Right Click to the source folder and untick the "Read-only" setting and press "Apply"
 8. Extract the contents of **win2003_prepatched_v10a.zip** to **D:\srv03rtm** Location
 9. Also put everything inside **_x64** folder to srv03rtm
-10. Also extract the **processorXP_win2003_update.7z** too
+10. Extract the **processorXP_win2003_update.7z** to srv03rtm
 11. Create a new folder inside the source folder and name it as **certutil** and put everything inside of **win-2k3-certutil** to that new folder
 12. Open the **generate.sh** with **Git Bash** and wait until your certificates are generated
 13. Put everything inside srv03rtm.certs into srv03rtm
