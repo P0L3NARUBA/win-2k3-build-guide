@@ -75,7 +75,7 @@ extract /y /a /e /l D:\srv03rtm 3790src5.cab
   - Change the Letter E to G
 4. Type **tools\missing.cmd** to cmd and wait
 5. When the command finished, Type **tools\postbuild.cmd -sku:srv** and wait again........
-6. Copy **ASMS.CAB** and **HIVESXS.INF** from **G:\I386** to **D:\binaries.x86fre\srv\i386**
+6. Copy **ASMS01.CAB** and **HIVESXS.INF** from **G:\I386** to **D:\binaries.x86fre\srv\i386**
 7. Type **tools\oscdimg.cmd srv** and be patient it will take some time
 8. Done! if you did everything right then you should see your compiled iso in the D:\ drive.
    - The name of the iso should be like this: 3790.x86fre.srckit.**yymmdd**-**hhmm**_srv.iso
