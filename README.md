@@ -64,7 +64,6 @@ extract /y /a /e /l D:\srv03rtm 3790src5.cab
 4. Type **tools\prebuild.cmd** to the cmd and wait until its finished
 5. Now its time to build this GOLD! Type **build /cZP** to start the building process (which will take a lot of time)
    - Use **build /ZP** if you dont want to build everything over and over again, that will take your time for nothing
-   - If you got any errors, just type **build /ZP**
 6. If the building has been done, proceed to the next section.
 
 # Post Building
