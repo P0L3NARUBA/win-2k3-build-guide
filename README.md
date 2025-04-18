@@ -53,7 +53,6 @@ extract /y /a /e /l D:\srv03rtm 3790src5.cab
       2. Right Click and Press "Install Certificate"
       3. Select **Local Machine**
       3. Spam Next button and do the same for all three
-   - Also do not remove this folder as the certificates will be unavailable.
 
 # Building
 8. When the extracting finished, open a command prompt as administrator inside **srv03rtm** and type **tools\razzle64.cmd free offline** or **tools\razzle.cmd free offline** if you're using 32-bit system
